@@ -1,9 +1,9 @@
 # Privacy Policy for Last Flight Out
 
-_Last updated: October 6, 2026_
+_Last updated: October 21, 2026_
 
 Last Flight Out ("the game") is a mobile game for Android. This policy explains what information the game and the ads in it use.
-If anything here is unclear, contact: **sparrow.exile800@passmail.net**
+If anything here is unclear, contact: **sparrowgames55@gmail.com**
 
 ## What we collect
 **We do not collect personal information ourselves.** The game has no accounts, no sign-in, no chat, and no servers of our own.
@@ -31,4 +31,4 @@ The game is not directed to children under 13, and we do not knowingly collect i
 If this policy changes, we will update the date above and publish the new version at the same address.
 
 ## Contact
-sparrow.exile800@passmail.net
+sparrowgames55@gmail.com
