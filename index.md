@@ -1,6 +1,6 @@
 # Privacy Policy for Last Flight Out
 
-_Last updated: October 21, 2026_
+_Last updated: November 6, 2026_
 
 Last Flight Out ("the game") is a mobile game for Android. This policy explains what information the game and the ads in it use.
 If anything here is unclear, contact: **sparrowgames55@gmail.com**
@@ -8,7 +8,7 @@ If anything here is unclear, contact: **sparrowgames55@gmail.com**
 ## What we collect
 **We do not collect personal information ourselves.** The game has no accounts, no sign-in, no chat, and no servers of our own.
 
-The game stores two things **only on your device**: your best distance and your sound setting. This data never leaves your phone and is deleted if you uninstall the game.
+The game stores a few things **only on your device**: your best distance, your sound and vibration settings, your daily goal progress and any free revives you've saved. This data never leaves your phone and is deleted if you uninstall the game.
 
 ## Ads (Google AdMob)
 The game shows ads provided by Google AdMob. To show and measure ads, AdMob and its partners may collect and use information from your device, such as:
